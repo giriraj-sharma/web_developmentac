@@ -1,0 +1,32 @@
+ls -> list files (show my files)
+ls -l -> files in long detailed format
+ls -a -> shows all files, including hidden files
+ls -la -> shows every files (including hidden ones) with full details
+
+pwd -> print working directory(where am i?)
+
+clear -> clear screen
+
+cd -> change directory
+
+cd directory_name
+
+cd .. -> back button (with space)
+
+cd ../.. -> do step piche
+
+/ -> root directory
+
+~ -> home directory
+
+mkdir -> make directory(folders)
+
+touch -> create new files in directory
+
+man -> opens manual (ex -> man ls , man mkdir) use q to exit from that commands 
+
+rm -> removes files
+
+rmdir -> removes empty folder
+
+rm -rf -> removes any folders 
